@@ -1,0 +1,6 @@
+# 应用配置文件
+server:
+  ip: "http://localhost:8080"
+  timeout: 30
+
+debug: true
